@@ -28,6 +28,45 @@ int main(){
     
 
 
+printf("Digite o nome do estado: \n");
+    scanf("%s", &estadoB2);
+    
+    printf("Digite o codigo da carta: \n");
+    scanf("%49s", &codigoB2);
+
+    printf("Digite o nome da cidade: \n");
+    scanf("%50s", &cidadeB2);
+    
+    printf("Digite a populacao da cidade: \n");
+    scanf("%d", &PopulacaoB2);
+
+    printf("Digite a area da cidade em km&sup2: \n");
+    scanf("%f", &Àreakm&sup2B2);
+
+    printf("Digite o PIB da cidade: \n");
+    scanf("%f", &PIBB2);
+
+    printf("Digite o numero de pontos turisticos da cidade: \n");
+    sacaf("%d", &turismoB2);
+    
+    
+    
+                 return ;  
+                
+             }    
+    
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
